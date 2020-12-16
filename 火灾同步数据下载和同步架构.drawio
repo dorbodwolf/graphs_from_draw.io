@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:58:19.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="WFWSb3cp2BPYS1eUNJkt" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T09:17:00.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="0q4pxf3pPfgIxjWn4bOP" version="14.0.3" type="github">
   <diagram id="j75nfmK6J37ABNzmhTS_" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,96 @@
         </mxCell>
         <mxCell id="qlOuIvPT4pSOrEptGePD-12" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="295" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-13" target="qlOuIvPT4pSOrEptGePD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-13" value="影像分幅tile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="900" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-14" target="qlOuIvPT4pSOrEptGePD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-14" value="外包矩形框" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-15" target="qlOuIvPT4pSOrEptGePD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-15" value="影像分块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-21" target="qlOuIvPT4pSOrEptGePD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-21" value="判断影像块与垃圾堆放矢量的位置关系" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="961" y="680" as="sourcePoint" />
+            <mxPoint x="961" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qlOuIvPT4pSOrEptGePD-27">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-24" target="qlOuIvPT4pSOrEptGePD-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-24" value="是否包含" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-26" value="输出影像块和对应的 标注文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-29" target="qlOuIvPT4pSOrEptGePD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-29" value="&lt;span&gt;核查后垃圾堆放矢量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-31" target="qlOuIvPT4pSOrEptGePD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-31" value="外包矩形求解" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlOuIvPT4pSOrEptGePD-35" target="qlOuIvPT4pSOrEptGePD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-35" value="修改分块尺寸" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="460" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qlOuIvPT4pSOrEptGePD-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="630" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
