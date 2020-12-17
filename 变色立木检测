@@ -1,20 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:01:52.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="VL-pSdAPB0YYDM-oDXf5" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:34:42.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="2v8dHPABnxRXL1RA80WV" version="14.0.3" type="github">
   <diagram id="pyV4NPh8dbZHfjlAlxeF" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-1" value="UTM投影&lt;br&gt;无人机分幅影像" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="130" height="90" as="geometry" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-20" value="自定义" parent="0" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-22" target="bdbCV2qLMI5V2uGpLuXx-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-3" value="专家知识解译&lt;br&gt;变色立木坏死点" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="50" width="100" height="100" as="geometry" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-46" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-22" target="bdbCV2qLMI5V2uGpLuXx-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-4" value="绘制坏死松林&lt;br&gt;矩形框" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="50" width="100" height="100" as="geometry" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-48" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-22" target="bdbCV2qLMI5V2uGpLuXx-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-5" value="绘制坏死松林&lt;br&gt;矩形框" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="50" width="100" height="100" as="geometry" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-50" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-22" target="bdbCV2qLMI5V2uGpLuXx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-22" value="UTM投影&lt;br&gt;无人机分幅影像" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="100" y="32.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-24" target="bdbCV2qLMI5V2uGpLuXx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-24" value="专家知识解译&lt;br&gt;变色立木坏死点" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="260" y="32.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-47" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-49" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-29" target="bdbCV2qLMI5V2uGpLuXx-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-51" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-29" target="bdbCV2qLMI5V2uGpLuXx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-29" value="&lt;span&gt;坏死松林&lt;br&gt;目标检测基础样本&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="530" y="30" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-42" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-40" target="bdbCV2qLMI5V2uGpLuXx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-40" value="坏死松林样本标注" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#5AA9E6;strokeColor=#FF6392;strokeWidth=2;fillColor=#FFE45E;arcSize=14;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="400" y="32.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-43" target="bdbCV2qLMI5V2uGpLuXx-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-43" value="&lt;span&gt;遥感旋转目标检测&lt;br&gt;标准数据集&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;dashed=1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="120" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-44" target="bdbCV2qLMI5V2uGpLuXx-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-44" value="遥感水平框目标检测&lt;br&gt;标准数据集" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="280" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-57" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-45" target="bdbCV2qLMI5V2uGpLuXx-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-45" value="&lt;span&gt;遥感实例分割&lt;br&gt;标准数据集&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;dashed=1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="440" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-52" value="坏死松林遥感旋转目标检测" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#5AA9E6;strokeColor=#FF6392;fillColor=#FFE45E;sketch=0;dashed=1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-54" value="坏死松林遥感水平目标检测" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#5AA9E6;strokeColor=#FF6392;fillColor=#FFE45E;sketch=0;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="290" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-56" value="坏死松林遥感实例分割" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#5AA9E6;strokeColor=#FF6392;fillColor=#FFE45E;sketch=0;dashed=1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+          <mxGeometry x="450" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
