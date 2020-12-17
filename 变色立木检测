@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T02:55:57.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" version="14.0.3" etag="ISfyZ5XUNVVwRooyOiFO" type="github"><diagram id="pyV4NPh8dbZHfjlAlxeF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:01:52.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="VL-pSdAPB0YYDM-oDXf5" version="14.0.3" type="github">
+  <diagram id="pyV4NPh8dbZHfjlAlxeF" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-1" value="UTM投影&lt;br&gt;无人机分幅影像" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-3" value="专家知识解译&lt;br&gt;变色立木坏死点" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-4" value="绘制坏死松林&lt;br&gt;矩形框" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-5" value="绘制坏死松林&lt;br&gt;矩形框" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
