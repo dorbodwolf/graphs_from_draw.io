@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T07:01:41.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="pEEfbPgsAO-Blo6ipIsg" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T07:02:54.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="bDgvpMh3BCJL7cmisDBD" version="14.0.3" type="github">
   <diagram id="pyV4NPh8dbZHfjlAlxeF" name="Page-1">
     <mxGraphModel dx="1185" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-22" value="UTM投影&lt;br&gt;无人机分幅影像" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;arcSize=12;size=0.23;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-22" value="无人机分幅影像" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;arcSize=12;size=0.23;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
           <mxGeometry x="100" y="32.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdbCV2qLMI5V2uGpLuXx-41" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-24" target="bdbCV2qLMI5V2uGpLuXx-40">
@@ -87,10 +87,10 @@
         <mxCell id="bdbCV2qLMI5V2uGpLuXx-61" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-58" target="bdbCV2qLMI5V2uGpLuXx-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-58" value="坏死松林遥感水平目标检测推理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-58" value="单株枯死变色立木&lt;br&gt;目标检测推理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
           <mxGeometry x="290" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-60" value="坏死松林检测结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-60" value="单株枯死变色立木&lt;br&gt;检测结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
           <mxGeometry x="290" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdbCV2qLMI5V2uGpLuXx-73" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-65" target="bdbCV2qLMI5V2uGpLuXx-58">
@@ -99,7 +99,7 @@
         <mxCell id="bdbCV2qLMI5V2uGpLuXx-74" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;" edge="1" parent="bdbCV2qLMI5V2uGpLuXx-20" source="bdbCV2qLMI5V2uGpLuXx-65" target="bdbCV2qLMI5V2uGpLuXx-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdbCV2qLMI5V2uGpLuXx-65" value="&lt;font color=&quot;#ffffff&quot;&gt;坏死松林&lt;br&gt;目标检测模型&lt;/font&gt;" style="outlineConnect=0;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;rounded=1;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
+        <mxCell id="bdbCV2qLMI5V2uGpLuXx-65" value="&lt;font color=&quot;#ffffff&quot;&gt;单株枯死变色立木&lt;br&gt;目标检测模型&lt;/font&gt;" style="outlineConnect=0;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;rounded=1;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="bdbCV2qLMI5V2uGpLuXx-20">
           <mxGeometry x="320.5" y="310" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
