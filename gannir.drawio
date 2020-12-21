@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T06:01:22.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="Y_qGVDkKIt49ueHVqOnh" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T06:08:59.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="C2rwhfPEwv7-yS2PTIEn" version="14.0.3" type="github">
   <diagram id="K4I6_uIa_C2dmjRzj60m" name="第 1 页">
     <mxGraphModel dx="1311" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="-100" y="190" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gtzaTPpwpM-55rcOBDIw-4" value="512" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="-130" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gtzaTPpwpM-55rcOBDIw-5" value="512" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="260" width="40" height="20" as="geometry" />
+          <mxGeometry x="-120" y="265" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gtzaTPpwpM-55rcOBDIw-6" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="280" width="20" height="20" as="geometry" />
@@ -28,14 +28,56 @@
         <mxCell id="gtzaTPpwpM-55rcOBDIw-7" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="280" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="gtzaTPpwpM-55rcOBDIw-9" target="gtzaTPpwpM-55rcOBDIw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gtzaTPpwpM-55rcOBDIw-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="40" height="90" as="geometry" />
+          <mxGeometry x="10" y="190" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gtzaTPpwpM-55rcOBDIw-11" value="BN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="30" height="20" as="geometry" />
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-15" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="285" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gtzaTPpwpM-55rcOBDIw-12" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Leaky ReLU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="240" width="80" height="10" as="geometry" />
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="gtzaTPpwpM-55rcOBDIw-19" target="gtzaTPpwpM-55rcOBDIw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-19" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-21" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="285" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-22" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-107.5" y="305" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-23" value="Conv2d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="305" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-24" value="Leaky ReLU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="305" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-25" value="BN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="5" y="175" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-26" value="Conv2d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="305" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-29" value="BN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="175" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-30" value="Leaky ReLU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="305" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-31" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="145" y="285" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-32" value="512" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="265" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gtzaTPpwpM-55rcOBDIw-33" value="512" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="125" y="240" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
