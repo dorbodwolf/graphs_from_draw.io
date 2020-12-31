@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-31T02:01:04.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="V-ae8mSG9a1TWrcQdOXZ" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-31T02:07:49.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="pdskAcpE65LbJVpJ9Jla" version="14.1.3" type="github">
   <diagram id="eqcq6ZInVydyOzSL_FsZ" name="Page-1">
-    <mxGraphModel dx="1585" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,17 +303,52 @@
         <mxCell id="6Bq6elWgjllRkBKV55uz-56" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Conv&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="406" y="608" width="49" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-89" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-71" target="6Bq6elWgjllRkBKV55uz-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Bq6elWgjllRkBKV55uz-71" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Sigmoid&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="483" y="608" width="49" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-84" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-73" target="6Bq6elWgjllRkBKV55uz-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Bq6elWgjllRkBKV55uz-73" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Sigmoid&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="483" y="643.5" width="49" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-80" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-74" target="6Bq6elWgjllRkBKV55uz-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Bq6elWgjllRkBKV55uz-74" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Sigmoid&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="483" y="679.5" width="49" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-81" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-77" target="6Bq6elWgjllRkBKV55uz-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Bq6elWgjllRkBKV55uz-77" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Tanh&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="483" y="717" width="49" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-85" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-79" target="6Bq6elWgjllRkBKV55uz-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-tab-bar/25/Cross_Cricle-128.png;rounded=0;sketch=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="571" y="697.5" width="16.5" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-87" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="673.6111111111111" y="713.1666666666666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-90" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Bq6elWgjllRkBKV55uz-83" target="6Bq6elWgjllRkBKV55uz-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-83" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;rounded=0;sketch=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="630" y="675" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-tab-bar/25/Cross_Cricle-128.png;rounded=0;sketch=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="701" y="637.5" width="16.5" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6Bq6elWgjllRkBKV55uz-92" value="&lt;font color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Concat&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="764" y="693" width="49" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
