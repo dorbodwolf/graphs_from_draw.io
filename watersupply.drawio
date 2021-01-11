@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T12:29:59.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="2ZIgwgFQMMHOrXZw3Vg2" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T12:35:09.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="X0e4wvk2DXTwzDTQPXt9" version="14.1.8" type="github">
   <diagram id="ItdWHxaEiJTJODX1TtfW" name="Page-1">
     <mxGraphModel dx="783" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,11 +196,11 @@
             <mxPoint x="710" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OomV4tTkSE6pyl4ZflRj-5" value="土地利用类型图层&lt;br&gt;&lt;b&gt;距离求算，求交运算，关联查询&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="930" width="180" height="30" as="geometry" />
+        <mxCell id="OomV4tTkSE6pyl4ZflRj-5" value="Landuse type layer&lt;br&gt;&lt;b&gt;Intersection operation&lt;/b&gt;&lt;br&gt;&lt;b&gt;Area calculatation&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Density estimation&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: bold&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="930" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OomV4tTkSE6pyl4ZflRj-6" value="&lt;div&gt;Power transmission corridor&lt;/div&gt;&lt;b&gt;intersection operation&lt;/b&gt;&lt;br&gt;&lt;b&gt;aggregate functiom&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1070" width="160" height="50" as="geometry" />
+        <mxCell id="OomV4tTkSE6pyl4ZflRj-6" value="&lt;div&gt;Power transmission corridor layer&lt;/div&gt;&lt;b&gt;intersection operation&lt;/b&gt;&lt;br&gt;&lt;b&gt;aggregate functiom&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="1080" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OomV4tTkSE6pyl4ZflRj-7" value="输电线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1190" width="50" height="20" as="geometry" />
@@ -218,7 +218,10 @@
           <mxGeometry x="320" y="780" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OomV4tTkSE6pyl4ZflRj-18" value="1. Two warning signs should be installed&amp;nbsp; at both ends of the power transmission corridor and &lt;br&gt;road intersection (a total of 4 warning signs are required at each intersection)&amp;nbsp; to remind passing &lt;br&gt;pedestrians and vehicles to pay attention to safety. How many road warning signs need to be &lt;br&gt;installed after the construction of these three transmission lines?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1050" width="530" height="10" as="geometry" />
+          <mxGeometry x="530" y="1050" width="530" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OomV4tTkSE6pyl4ZflRj-19" value="1. What are the numbers and populations of the residential areas that the transmission &lt;br&gt;corridor will pass through? What is the proportion of the area affected by the transmission &lt;br&gt;corridor in each residential area to the total area&amp;nbsp; of ​​the residential area? &lt;br&gt;Estimate the affected population in each residential area?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="930" width="490" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
